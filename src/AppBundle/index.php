@@ -13,3 +13,4 @@ echo "Ahora trabajando en la rama"
 
 echo "Finalizado";
 <?
+grafico
