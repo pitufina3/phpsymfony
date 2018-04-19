@@ -1,0 +1,3 @@
+<?php
+$vector = array ();
+$vector []
